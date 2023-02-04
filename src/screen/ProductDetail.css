@@ -1,0 +1,35 @@
+.productdetial{
+    margin-top: 30px;
+}
+.product-img{
+    height: 100%;
+    padding: 20px;
+}
+.product-img > img{
+    width: 100%;
+    height: 400px;
+}
+.product-desc{
+    height: 100%;   
+    padding: 30px;
+}
+.product-desc .title{
+    margin-top: 30px;
+}
+.product-desc .price{
+    margin-top: 30px;
+    font-weight: bold;
+}
+.product-desc .category{
+    margin-top: 30px;
+}
+.product-desc .description {
+    margin-top: 10px;
+}
+.product-desc .addToBag{
+    margin-top: 50px;
+    width: 30%;
+}
+
+
+
